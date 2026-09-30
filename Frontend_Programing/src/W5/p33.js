@@ -1,0 +1,10 @@
+const fruits = ["사과", "오렌지", "배"];
+console.log(fruits);
+fruits[3] = "딸기";
+console.log(fruits);
+fruits.unshift("포도");
+console.log(fruits);
+fruits.push("바나나");
+console.log(fruits);
+fruits[10] = "귤";
+console.log(fruits);

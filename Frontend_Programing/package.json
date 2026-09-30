@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "description": "",
   "devDependencies": {
     "ts-node": "^10.9.2",
     "tsx": "^4.23.13",
     "typescript": "^7.0.2"
-  }
+  },
+  "description": ""
 }
